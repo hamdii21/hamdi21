@@ -20,7 +20,7 @@ d"width="100%"/>
 
 
 ### :woman_technologist:about me:
-Je suis une apprenant en développement Web Web à Energy Génération pour le moment je ne maîtrise pas grand chose mais avec le temps sa ira Incha allah. Bon mon rêve c'est de devenir fullstack car je veux devenir riche comme le dit le coach 
+Je suis une apprenant en développement Web Web à Energy Génération pour le moment je ne maîtrise pas grand chose mais avec le temps sa ira Incha allah. Bon mon rêve c'est de devenir fullstack car je veux être la plus grande fullstack musulmane je veux motivé mes sœurs qu'on peut aussi y arriver. 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
